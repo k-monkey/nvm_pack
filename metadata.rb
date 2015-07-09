@@ -1,0 +1,7 @@
+name 'nvm_pack'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures nvm_pack'
+long_description 'Installs/Configures nvm_pack'
+version '0.1.0'
